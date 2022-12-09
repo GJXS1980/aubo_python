@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<launch>
+
+    <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster0" args="0.01871432659445273 0.10446660197697127 0.006906680525053534  -0.6701801445821992 -1.5493313821216614 -0.8248594513756673 wrist3_Link camera_link1  100" />  
+
+</launch>
+
+
+
